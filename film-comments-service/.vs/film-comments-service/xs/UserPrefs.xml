@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C52BE6B6-A191-465C-B27C-7A621BE21273}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.FilmComments.RestAPIs PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/FilmComments.RestAPIs/Startup.cs">
+    <Files>
+      <File FileName="src/FilmComments.RestAPIs/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="film-comments-service" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="FilmComments.RestAPIs" expanded="True">
+                <Node name="Startup.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
